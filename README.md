@@ -13,6 +13,9 @@
     Acceso protegido a recursos según el rol del usuario
     Interfaz de usuario desarrollada en React
 
+  Recuerda hacer:
+    nmp i
+
 Para contribuir a este proyecto, por favor sigue estos pasos:
 
     Haz un fork del repositorio.
